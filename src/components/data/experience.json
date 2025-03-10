@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "role": "Backend Developer (Node Js)",
+    "organisation": "Wix Patriots",
+    "startDate": "July 2024 -",
+    "endDate": "Nov 2024,",
+    "location": "Lahore",
+    "experiences": [
+      "Worked on the Wix Patriots Backend",
+      "Worked with backend team to create Wix APIs"
+    ],
+    "imageSrc": "company/wix.png"
+  },
+  {
+    "id": 2,
+    "role": "MERN Stack Developer",
+    "organisation": "Freelance Bahawalpur",
+    "startDate": "March 2022 -",
+    "endDate": "April 2023,",
+    "location": "Bahawalpur",
+    "experiences": [
+      "Worked on full stack web applications",     
+      "Worked on E-commerce websites"
+    ],
+    "imageSrc": "company/freelance.jpg"
+  }
+]

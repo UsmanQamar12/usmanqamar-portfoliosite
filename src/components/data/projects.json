@@ -1,0 +1,42 @@
+[
+  {
+    "key": 1,
+    "title": "Complaint Management",
+    "imageSrc": "assets/project/comp2.png",
+    "description": "This is a project made with complete MERN Stack.",
+    "demo": "https://youtu.be/1qJ8Z0OuKc0?si=9QbuEVeth_VxY3fY",
+    "source": "https://github.com/UsmanQamar12/Complain-Management-System"
+  },
+  {
+    "key": 2,
+    "title": "Chat Application",
+    "imageSrc": "assets/project/chatapp1.png",
+    "description": "This is a project made with complete React js.",
+    "demo": "https://youtu.be/vvhRDzAI1D8?si=GpAxI2X6zGQoTDvE",
+    "source": "https://github.com/UsmanQamar12/ChatApplication"
+  },
+  {
+    "key": 3,
+    "title": "Doctor Appointments App",
+    "imageSrc": "assets/project/Doct1.png",
+    "description": "This is a project made with complete MERN Stack.",
+    "demo": "https://youtu.be/27tSTMa116w?si=JZ6Zs8U2hAxnxhOI",
+    "source": "https://github.com/UsmanQamar12/Doc_Appointments-Management-System"
+  },
+  {
+    "key": 4,
+    "title": "News Application",
+    "imageSrc": "assets/project/Newsapp.png",
+    "description": "This is a project made with complete MERN Stack.",
+    "demo": "https://youtube.com/shorts/rVHEhGBcIMs?si=JdvcymCCsXolPcT3",
+    "source": "https://github.com/UsmanQamar12/NewsApplication"
+  },
+  {
+    "key": 5,
+    "title": "Ecommerce Application",
+    "imageSrc": "assets/project/Ecommerce.png",
+    "description": "This is a project made with complete MERN Stack.",
+    "demo": "https://youtube.com/shorts/5ine7my4h0U?si=7jbPpUAQaNwV9bSp",
+    "source": "https://github.com/UsmanQamar12/clothstore"
+  }
+]
